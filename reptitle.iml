@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<<<<<<< HEAD
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
@@ -51,12 +52,26 @@ under the License.
       <library>
         <CLASSES>
           <root url="jar:///Users/zscome/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.0-RC1/rxjava-3.0.0-RC1.jar!/"/>
+=======
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes"/>
+    <output-test url="file://$MODULE_DIR$/target/test-classes"/>
+    <content>
+      <excludeFolder url="file://$MODULE_DIR$/target"/>
+    </content>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/zscomehuyue/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.0-RC1/rxjava-3.0.0-RC1.jar!/"/>
+>>>>>>> f591aca93b00fdfaab31b12d4f9593d7c77095ea
         </CLASSES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar:///Users/zscome/.m2/repository/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar!/"/>
         </CLASSES>
       </library>
@@ -79,4 +94,11 @@ under the License.
     </webroots>
   </component>
   --> 
+=======
+          <root url="jar:///Users/zscomehuyue/.m2/repository/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+  </component>
+>>>>>>> f591aca93b00fdfaab31b12d4f9593d7c77095ea
 </module>

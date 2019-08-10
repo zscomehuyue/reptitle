@@ -13,7 +13,13 @@
       <entry name="!?*.java" />
     </wildcardResourcePatterns>
   </component>
+<<<<<<< HEAD
   <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+=======
+  <component name="EntryPointsManager">
+    <entry_points />
+  </component>
+>>>>>>> f591aca93b00fdfaab31b12d4f9593d7c77095ea
   <component name="ExportToHTMLSettings">
     <option name="PRINT_LINE_NUMBERS" value="false" />
     <option name="OPEN_IN_BROWSER" value="false" />
@@ -70,6 +76,7 @@
     <option name="ADDITIONAL_OPTIONS_STRING" value="" />
     <option name="MAXIMUM_HEAP_SIZE" value="128" />
   </component>
+<<<<<<< HEAD
   <component name="MarkdownExportedFiles">
     <htmlFiles />
     <imageFiles />
@@ -158,10 +165,18 @@
       <textMaps />
     </LinkMapSettings>
   </component>
+=======
+>>>>>>> f591aca93b00fdfaab31b12d4f9593d7c77095ea
   <component name="ProjectModuleManager">
     <modules>
       <module filepath="$PROJECT_DIR$/reptitle.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
+<<<<<<< HEAD
+=======
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+>>>>>>> f591aca93b00fdfaab31b12d4f9593d7c77095ea
 </project>
