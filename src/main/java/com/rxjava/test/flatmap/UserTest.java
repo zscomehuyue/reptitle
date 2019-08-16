@@ -14,11 +14,10 @@ public class UserTest {
         users
                 .stream()
                 .map(User::getAddresses)
-                .flatMap(list->list.stream())
+                .flatMap(list -> list.stream())
                 .forEach(System.out::println);
 
     }
-
 
 
     @Test
@@ -43,5 +42,14 @@ public class UserTest {
 
     }
 
+    @Test
+    public void dd() {
+        Observable.just("1")
+                .onErrorResumeNext(e -> {
+                    e.printStackTrace();
+                    return Observable.just(e.getMessage());
+                })
+        ;
+    }
 
 }
